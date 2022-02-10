@@ -234,7 +234,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         msg.setWindowTitle("Excel")
         msg.setText("Relatório Excel Gerado com Sucesso!")
         msg.exec()
-
     
 if __name__ == "__main__":
 
