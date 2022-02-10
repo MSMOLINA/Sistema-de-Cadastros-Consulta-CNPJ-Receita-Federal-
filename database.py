@@ -119,5 +119,6 @@ class Data_base:
 
             WHERE CNPJ = '{fullDataSet[0]}'""")
         self.connection.commit()
+        
 
     
