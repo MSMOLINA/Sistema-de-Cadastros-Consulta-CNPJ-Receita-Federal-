@@ -118,7 +118,6 @@ class Data_base:
             CARGO_RESP_CONSULTORIA = '{fullDataSet[20]}'
 
             WHERE CNPJ = '{fullDataSet[0]}'""")
-        self.connection.commit()
-        
+        self.connection.commit()        
 
     
