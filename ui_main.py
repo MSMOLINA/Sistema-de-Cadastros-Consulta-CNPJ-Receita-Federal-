@@ -745,4 +745,5 @@ class Ui_MainWindow(object):
         self.lbl_objetivo.setText(QCoreApplication.translate("MainWindow", u"<html><head/><body><p>Este sistema faz consulta na base da Receita Federal atrav\u00e9s do CNPJ utilizando a API da Receita e possibilita cadastrar consultoria e registrar tempo de contrato via presta\u00e7\u00e3o de Servi\u00e7o.</p></body></html>", None))
         self.label_2.setText(QCoreApplication.translate("MainWindow", u"MMDESENVOLVIMENTO", None))
     # retranslateUi
+    
 
