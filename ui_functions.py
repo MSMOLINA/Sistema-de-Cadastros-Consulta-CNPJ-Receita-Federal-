@@ -11,8 +11,3 @@ def consulta_cnpj(cnpj):
     resp = json.loads(response.text)
 
     return resp['nome'], resp['logradouro'], resp['numero'], resp['complemento'], resp['bairro'], resp['municipio'], resp['uf'], resp['cep'], resp['telefone'], resp['email']
-
-
-    
-           
-        
