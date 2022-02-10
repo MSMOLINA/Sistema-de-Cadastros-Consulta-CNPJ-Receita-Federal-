@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icones/ico_menu_suspenso.png</file>
+    <file>icones/ico_facebook.png</file>
+    <file>icones/ico_instagram.png</file>
+    <file>icones/ico_whatspp.png</file>
+    <file>icones/python.png</file>
+  </qresource>
+</RCC>
